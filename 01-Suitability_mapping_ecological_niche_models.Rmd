@@ -15,7 +15,7 @@ We are going to learn the following steps:
 
 ### Datasets & setting up the work directory 
 
-Before you begin do make sure to download all data by [**clicking here**](). On your desktop, create a folder on called "**IRDR0047-R**" and within that folder, create another folder called "**Week 6**". Make sure to extract all data from the zip folder and store it into "**Week 6**" folder. Open a new R script and set the work directory to **Week 6's** folder.
+Before you begin do make sure to download all data by [**clicking here**](https://github.com/UCLPG-MSC-SGDS/IRDR0047/raw/master/Dataset%20for%20RStuido%20Practicals.zip). On your desktop, create a folder on called "**IRDR0047-R**" and within that folder, create another folder called "**Week 6**". Make sure to extract all data from the zip folder and store it into "**Week 6**" folder. Open a new R script and set the work directory to **Week 6's** folder.
 
 For Windows, the work directory will be:
 ```{r, eval = FALSE}
