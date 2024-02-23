@@ -1,0 +1,36 @@
+---
+title: "IRDR0047: Geospatial Data Science (2023/24)"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+link-citations: yes
+github-repo: "UCLPG-MSC-SGDS/IRDR0047"
+description: "IRDR0047: Geospatial Data Science"
+#bibliography: [book.bib, packages.bib]
+---
+
+# Welcome {.unnumbered}
+
+```{r echo=FALSE, out.width = "100%", fig.align='center', cache=TRUE,}
+knitr::include_graphics('images/general/intro_page_picture.jpeg') 
+```
+
+<br />
+
+| **Week** | **Downloads**                                                                                                                                                                                                        | **Topics**                                          |
+|:----------------|:----------------|:--------------------------------------|
+| 6        | [**[Slides]**](); [**[Data]**]()                                                                                                                                                                                             | Ecological Niche Modelling                              |
+
+
+
+::: note
+**IMPORTANT NOTE**: This GitHub page contains the guest lecture and learning materials for Week 06 (Ecological Niche Modelling) of Geospatial Data Science 2023-2024. The content has been archived and can be found here: [**[LINK]**](https://uclpg-msc-sgds.github.io/GEOG0114/index.html) 
+:::
+
+## Contacts details {.unnumbered}
+
+Feel free to contact me via email for help, or book appointments for additional support if need be. I am based at UCL Department of Geography, [**North West Wing building**](https://www.ucl.ac.uk/maps/north-west-wing-building):
+
+| **Name**        | **Email**                                                       | **Room number** |
+|-----------------------|-------------------------|-------------------------|
+| Anwar Musah     | [**a.musah\@ucl.ac.uk**](a.musah@ucl.ac.uk)                     | 115             |

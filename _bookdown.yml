@@ -1,0 +1,19 @@
+book_filename: "IRDR0047"
+rmd_files:
+- index.rmd
+- installation.Rmd
+- 01-Suitability_mapping_ecological_niche_models.Rmd
+
+language:
+  ui:
+    chapter_name: ""
+delete_merged_file: true
+output_dir: "docs"
+
+# https://github.com/UCLPG-MSC-SGDS/GEOG0114/raw/main/Lecture_notes/GEOG0114%20-%20Induction%20Slides.pdf
+# https://github.com/UCLPG-MSC-SGDS/GEOG0114/raw/main/Lecture_notes/Week%201%20Lecture%20Notes%20-%20Introduction.pdf
+# https://github.com/UCLPG-MSC-SGDS/GEOG0114/raw/main/Lecture_notes/Week%202%20Lecture%20Notes%20-%20Graphical%20Representation.pdf
+# https://github.com/UCLPG-MSC-SGDS/GEOG0114/raw/main/Lecture_notes/Week%203%20Lecture%20Notes%20-%20Spatial%20Autocorrelation.pdf
+
+
+
