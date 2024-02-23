@@ -19,7 +19,7 @@ knitr::include_graphics('images/general/intro_page_picture.jpeg')
 
 | **Week** | **Downloads**                                                                                                                                                                                                        | **Topics**                                          |
 |:----------------|:----------------|:--------------------------------------|
-| 6        | [**[Slides]**](); [**[Data]**]()                                                                                                                                                                                             | Ecological Niche Modelling                              |
+| 6        | [**[Slides]**](https://github.com/UCLPG-MSC-SGDS/IRDR0047/raw/master/Lecture_notes_pdf/Week%206%20Lecture%20Notes%20-%20Ecological%20Niche%20Modelling.pdf); [**[Data]**](https://github.com/UCLPG-MSC-SGDS/IRDR0047/raw/master/Dataset%20for%20RStuido%20Practicals.zip)                                                                                                                                                                                             | Ecological Niche Modelling                              |
 
 
 
